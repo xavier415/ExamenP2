@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\CapaDeEntidad.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\CapaDeNegocio.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\CapaDeEntidad.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\bin\Debug\CapaDeNegocio.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Form1.resources
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb

@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\bin\Debug\CapaDeEntidad.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\bin\Debug\CapaDeEntidad.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\obj\Debug\CapaDeDa.D72029D7.Up2Date
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

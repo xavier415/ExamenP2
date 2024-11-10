@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\bin\Debug\CapaDeEntidad.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\bin\Debug\CapaDeEntidad.pdb
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\PC\Desktop\Tareas ITLA\Proyectos p2\Examen\Capa de Presentacion\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
